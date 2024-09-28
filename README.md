@@ -3,13 +3,13 @@
 ## Purpose of the Repository:
 the purposes and MySQL integration for your Sales Insights dashboard:
 
--- **Data Integration & Real-Time Reporting**: Seamlessly connects MySQL to Power BI for integrated, up-to-date sales performance metrics.
--- **Automated Data Refresh & Accurate Insights**: Real-time data extraction from MySQL ensures that the dashboard is always accurate and reflects the latest sales data.
--- **Trend Analysis & Forecasting**: Leverages historical sales data to analyze trends and forecast future sales, aiding strategic planning.
--- **Customer Behavior & Sales Performance Monitoring**: Tracks KPIs, customer buying behavior, and regional sales performance through intuitive visualizations.
--- **Enhanced Data Management & Query Handling**: Efficiently processes large datasets using SQL queries, ensuring accurate, comprehensive data analysis.
--- **Scalable and Interactive Data Exploration**: Allows users to drill down into specific metrics and supports scalability as data volumes grow.
--- **Visual Storytelling for Decision-Making**: Uses Power BI’s visualization capabilities to present complex sales data, helping leadership make informed, data-driven decisions.
+- **Data Integration & Real-Time Reporting**: Seamlessly connects MySQL to Power BI for integrated, up-to-date sales performance metrics.
+- **Automated Data Refresh & Accurate Insights**: Real-time data extraction from MySQL ensures that the dashboard is always accurate and reflects the latest sales data.
+- **Trend Analysis & Forecasting**: Leverages historical sales data to analyze trends and forecast future sales, aiding strategic planning.
+- **Customer Behavior & Sales Performance Monitoring**: Tracks KPIs, customer buying behavior, and regional sales performance through intuitive visualizations.
+- **Enhanced Data Management & Query Handling**: Efficiently processes large datasets using SQL queries, ensuring accurate, comprehensive data analysis.
+- **Scalable and Interactive Data Exploration**: Allows users to drill down into specific metrics and supports scalability as data volumes grow.
+- **Visual Storytelling for Decision-Making**: Uses Power BI’s visualization capabilities to present complex sales data, helping leadership make informed, data-driven decisions.
 
 ## Data Tables and Their Roles:
 **Product Data**:
