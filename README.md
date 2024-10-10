@@ -35,6 +35,7 @@ The purposes and MySQL integration for your Sales Insights dashboard:
 ## Dashboard Preview
 ![NVIDIA](https://github.com/Niharika-yadav/Sales-Insights-DA-MySQL-combined-Power-BI/blob/8f140a6e4786738b097bf7927694f7dfeb716301/Documents/Sales%20Insights%20DA%20MySQL%20combind%20Power%20BI.png)
 
-
+## Conclusion
+The Sales Insights dashboard reveals total revenue of 984.81M and a sales quantity of 2M, with Delhi leading as the top-performing market. The revenue trend shows fluctuations, peaking at 42.5M in 2018 but declining to 14.7M by early 2020, signaling potential challenges. Electricalsara Stores is the largest customer, contributing 413.33M to revenue, while Prod040 leads in product sales. The data indicates a heavy reliance on a few key markets and customers, highlighting opportunities to expand in underperforming areas and address the declining revenue trend.
 
 
