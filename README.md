@@ -33,4 +33,8 @@ The purposes and MySQL integration for your Sales Insights dashboard:
 - Overview: This table captures market information, mapping sales activities to different geographic areas or regions (zones). It’s helpful in analyzing performance across markets and identifying top-performing or underperforming regions.
 
 ## Dashboard Preview
+![NVIDIA](https://github.com/Niharika-yadav/Sales-Insights-DA-MySQL-combined-Power-BI/blob/8f140a6e4786738b097bf7927694f7dfeb716301/Documents/Sales%20Insights%20DA%20MySQL%20combind%20Power%20BI.png)
+
+
+
 
